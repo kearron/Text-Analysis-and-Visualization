@@ -1,7 +1,6 @@
 # SubTask 2:
 # 1.Find word count,
 
-# find frequency of top 100 words excluding stop words,
 # find the longest and shortest word and there frequency,
 # find top 100 verbs, nouns, adjectives and adverbs,find their composition of text based on part of speech ( like 10% is noun, 20% is verb ..) ,
 # find top 100 noun-noun phrase and noun-verb pair .
